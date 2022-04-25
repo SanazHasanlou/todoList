@@ -24,7 +24,7 @@ const App = () => {
         setFilterTasks(taskList);
         break;
     }
-  };
+  }; 
   return (
     <div className="App">
       <header>

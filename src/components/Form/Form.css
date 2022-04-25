@@ -3,7 +3,7 @@
   display: block;
   max-width: 400px;
   min-width: 180px;
- 
+  margin: 0px 0px 0px 5px;
   border: 1px solid #3c1c78;
   background-color: #16013e;
   z-index: 10;
